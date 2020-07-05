@@ -1,2 +1,2 @@
 # Basta-Fazoolin-
-Python Project
+Python Project to keep restaurant things organized
